@@ -1,0 +1,14 @@
+* {
+    padding: 0;
+    margin: 0;
+    background-color: black;
+    
+}
+
+.main-text {
+    text-align: center;
+    font-size: 22;
+    font-family: 'Times New Roman', Times, serif;
+    gap: 0;
+    color: white;
+}
